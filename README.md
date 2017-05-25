@@ -1,3 +1,3 @@
 # Learn-github
 how to use github
-"THIS IS THE PROCESS OF LEARNING HOW TO USE GITHUB"
+"Today i want to learn github useage"25th may 2017
